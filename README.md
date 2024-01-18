@@ -1,5 +1,5 @@
 # https-github.com-preetipisal770-Age-Gender_Detection
-Simply age and gender detector using Machine learning
+Simply age and gender detector using Machine learning..!!
 To simply run this model:
 1.Clone this respository
 2.Run the gui.py file
